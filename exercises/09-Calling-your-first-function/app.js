@@ -4,3 +4,5 @@ function isOdd(myNumber)
 }
 
 // Your code below:
+let number= prompt("Ingrese un número");
+console.log(isOdd(number));
