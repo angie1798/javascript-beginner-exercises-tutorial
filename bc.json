@@ -166,7 +166,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
